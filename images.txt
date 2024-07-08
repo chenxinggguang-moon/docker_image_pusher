@@ -1,2 +1,3 @@
 redis:7.0
-nginx
+mariadb:10.6
+
