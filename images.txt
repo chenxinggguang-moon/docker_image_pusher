@@ -1,7 +1,1 @@
-jumpserver/guacd:1.5.5-bookworm
-jumpserver/jms_all:v4.0.0
-jumpserver/jms_core:v4.0.0
-jumpserver/jms_koko:v4.0.0
-jumpserver/jms_lion:v4.0.0
-jumpserver/jms_chen:v4.0.0
-jumpserver/jms_web:v4.0.0
+k8s.gcr.io/sig-storage/csi-node-drive-registrar:v2.3.0
