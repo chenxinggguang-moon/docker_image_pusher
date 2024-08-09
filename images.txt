@@ -1,1 +1,2 @@
-k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.3.0
+milvusdb/milvus:v2.4.6
+zilliz/attu:v2.4.6
