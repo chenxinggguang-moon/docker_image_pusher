@@ -1,2 +1,2 @@
-langfuse/langfuse:2
-postgres
+docker.io/flannel/flannel:v0.25.5
+docker.io/calico/cni:v3.25.0
