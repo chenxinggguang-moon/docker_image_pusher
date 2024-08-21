@@ -1,1 +1,1 @@
-python:3.9-slim
+zilliz/milvus_cli:latest
