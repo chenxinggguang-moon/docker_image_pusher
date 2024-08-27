@@ -1,2 +1,2 @@
-prom/mysqld_exporter:v0.10.0
+oliver006/mysqld-exporter:v0.10.0
 
