@@ -1,2 +1,4 @@
-oliver006/mysqld-exporter:v0.10.0
+zilliz/attu:v2.4.7
+milvusdb/etcd:3.5.14-r1
+milvusdb/milvus:v2.4.10
 
