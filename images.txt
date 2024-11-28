@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2023-08-04T18-15-24Z
+prometheusalert/center-alert:v4.9.1
