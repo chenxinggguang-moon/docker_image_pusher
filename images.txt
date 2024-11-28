@@ -1,1 +1,1 @@
-prometheusalert/center-alert:v4.9.1
+registry.cn-shenzhen.aliyuncs.com/gondor/prometheusalert:v4.9.1
