@@ -1,1 +1,1 @@
-ubuntu:22.04
+jenkins/jenkins:2.479.2
