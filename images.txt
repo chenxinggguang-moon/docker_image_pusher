@@ -1,1 +1,1 @@
-jenkins/jenkins:2.479.2
+nacos/nacos-server:v2.3.2-2
