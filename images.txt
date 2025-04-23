@@ -1,1 +1,1 @@
-docker.io/library/nginx:1.25
+assaflavie/runlike
