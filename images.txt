@@ -1,1 +1,1 @@
-assaflavie/runlike
+jyckbase/javabase:latest
