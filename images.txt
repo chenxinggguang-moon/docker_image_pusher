@@ -1,1 +1,1 @@
-bitnami/kafka:3.4.0
+openjdk:8-jre-alpine
