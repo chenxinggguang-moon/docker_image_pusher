@@ -1,1 +1,1 @@
-docker.io/calico/ctl:v3.25.0
+docker.io/calico/ctl:v3.26.0
