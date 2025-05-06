@@ -1,1 +1,1 @@
-docker.io/calico/ctl:v3.26.0
+ gitlab/gitlab-ce:latest
