@@ -1,1 +1,1 @@
-docker.io/calico/kube-controllers:v3.25.0
+sonatype/nexus3:3.54.1-0
